@@ -19,4 +19,10 @@ This web app is created by following a udemy course .
 
 #### Sample Images of Project Output  
 
-![Project sample image 1](https://github.com/amalmohan542/StickyNotes/blob/master/Project_Sample_Images/sample1.png)
+###### Sample 1
+
+![Project sample image 1](https://github.com/amalmohan542/StickyNotes/blob/master/Project_Sample_Images/sample1.png)  
+
+###### Sample 2
+
+![Project sample image 2](https://github.com/amalmohan542/StickyNotes/blob/master/Project_Sample_Images/sample2.png) 
