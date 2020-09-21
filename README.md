@@ -4,15 +4,19 @@ This web app is created by following a udemy course .
 
 #### To run this Application Follow the steps  
 
-//Step 1:
-git clone [repository url]
+###### Step 1:
+    git clone [repository url]
 
-//Step 2:
-cd [local repository
+###### Step 2:
+    cd [local repository
 
-//Step 3: 
-npm install
+###### Step 3: 
+    npm install
 
-//Step 4:
-npm start
+###### Step 4:
+    npm start
+    
 
+#### Sample Images of Project Output  
+
+![Project sample image 1](https://github.com/amalmohan542/StickyNotes/blob/master/Project_Sample_Images/sample1.png)
