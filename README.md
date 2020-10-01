@@ -1,5 +1,5 @@
 # StickyNotes
-This is a Sticky Notes Web App using Reactjs.Which enables us to create short notes which cam be added or deleted.
+This is a Sticky Notes Web App using Reactjs.Which enables us to create short notes which can be added or deleted.This web app helps to make our plans organized.
 
 
 #### To run this Application Follow the steps  
