@@ -8,7 +8,7 @@ This is a Sticky Notes Web App using Reactjs.Which enables us to create short no
     git clone https://github.com/amalmohan542/StickyNotes.git
 
 ##### Step 2:
-    cd [local repository
+    cd StickyNotes
 
 ##### Step 3: 
     npm install
