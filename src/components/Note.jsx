@@ -1,8 +1,8 @@
-import React from "react";
+import React from "react"
 
 function Note(props) {
   function handleClick() {
-    props.onDelete(props.id);
+    props.onDelete(props.id)
   }
 
   return (
@@ -11,7 +11,7 @@ function Note(props) {
       <p>{props.content}</p>
       <button onClick={handleClick}>DELETE</button>
     </div>
-  );
+  )
 }
 
-export default Note;
+export default Note
